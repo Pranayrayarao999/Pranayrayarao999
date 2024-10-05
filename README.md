@@ -3,4 +3,6 @@
 </h1>
 
 <hr>
-<p style="margin-left: 200;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrayarao999&" alt="pranayrayarao999" /></p>
+<div style="margin-left: 500px;">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrayarao999&" alt="pranayrayarao999" /></p>
+</div>
