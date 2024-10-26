@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=7F00FF&height=70&duration=4000&lines=Hello+👋;+I'm+Pranay+Kumar+Rayarao!;" />
 </h1>
-<h3 align="center"> 🤓 Fullstack developer from India</h3>
+<h3 align="center"> 🤓A Passionate Fullstack developer from India</h3>
 
 <h3 align="center" style="font-family:Georgia, 'Times New Roman', Times, serif; color:7F00FF;">Languages and Frameworks:</h3>
 <div align="center">
