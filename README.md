@@ -12,8 +12,8 @@
 
 <h2 align="center" style="font-family:Georgia, 'Times New Roman', Times, serif; color:7F00FF;"> Stats:</h2> 
 <div align=center>
-<!--     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrayarao999&theme=midnight-purple&border_radius=10" alt="streak stats"/> -->
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=pranayrayarao999&theme=midnight-purple&border_radius=10" alt="streak stats"/> 
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=pranayrayarao999&show_icons=true&locale=en&theme=midnight-purple&border_radius=10" alt="readme stats" />
     <br/>
-<!--     <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranayrayarao999&show_icons=true&locale=en&layout=compact&theme=midnight-purple&border_radius=10" alt="top langs" /> -->
+<!--     <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=pranayrayarao999&show_icons=true&locale=en&layout=compact&theme=midnight-purple&border_radius=10" alt="top langs" /> -->
 </div>
