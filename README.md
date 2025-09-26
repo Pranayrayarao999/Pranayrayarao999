@@ -4,11 +4,11 @@
 </h1>
 <h3 align="center"> 🤓Fullstack developer from India</h3>
 
-<h3 align="center" style="font-family:Georgia, 'Times New Roman', Times, serif; color:7F00FF;">Languages and Frameworks:</h3>
+<!-- <h3 align="center" style="font-family:Georgia, 'Times New Roman', Times, serif; color:7F00FF;">Languages and Frameworks:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,spring,django" />
     <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,expressjs,mongodb,mysql" /><br>
-</div>   <br>
+</div>   <br> -->
 
 <h2 align="center" style="font-family:Georgia, 'Times New Roman', Times, serif; color:7F00FF;"> Stats:</h2> 
 <div align=center>
